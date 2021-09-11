@@ -1,0 +1,460 @@
+{
+    "Introduction": {
+        "Story": "Chaotic is the only word that could have been used during the cataclysm. The gods weilded their fearsome power against one another to settle petty disputes.\nAll the while wrecking havoc on the low-born races caught in their war. Until one day a sage ascended mount Tanniyn to propose a solution to the gods.\nIt is said he quoted from the ancient book of life the following:\n'Casting the lot settles disputes and keeps strong opponents apart.'\nA simple proverb yet the gods of old were inclined to listen to it that day.\nThe sage also pointed to the destruction they wrought on their own creation.\nIn a strange turn of events the gods acknowledged their folly and have been putting that proverb into practice ending the cataclysm.\nThey took up the game 'Jan Ken Po' as a way to settle their disputes. However their now diminished could not be totally held at bay.\nThe gods inadvertentl imbuded their hands with Elemental magic. When a 'Rock' was thrown the mountains quaked.\nWhen 'Fire' was cast volcanoes erupted. Some out of the low-born did not despair. They were observant of the gods and noticed how they played 'Jan Ken Po'.\nIn time they learned how to play and even imbue Elemental magic into their very hands just like the gods.\nWith the power they were able to repel if not counteract the supernatural disasters the gods themselves caused.\nA martial art was born around 'Elemental Jan Ken Po' and in time tournaments between the gods and the low-born were established.\nAt these tournaments the winner who showed the most skill in the martial art was deemed as the Elemental Cultivator and were granted to ascend to god like stature.\n\nThat is the journey you are on! To ascend to divinity with your Elemental Cultivation!",
+        "Uniques": {
+            "Cultivation": 50,
+            "Continue": "Onwards to glory!",
+            "Run Away": "Well, I guess you forgot something at home... Because why else would you quit an adventure that was barely begun",
+            "ID": "Intro",
+            "Additional_Story": "Additional Story"
+        },
+        "Actions": [
+            "Continue",
+            "Run Away"
+        ]
+    },
+    "Exposition": [
+        {
+            "Story": "You see a figure in the distance...",
+            "Uniques": {
+                "Cultivation": 50,
+                "Goal": 50,
+                "Reward": {
+                    "Max_HP": 15
+                },
+                "Continue": "Onwards to glory!",
+                "ID": "Exposition1",
+                "Additional_Story": [
+                    "\"Hey bud!\" an excited man seemingly around your age waves at you.\n\"You're seting off on your journey as well?\" beamed the messy hair man, who you now recognize as your friend Bosman.\n\"I got sidetracked a mile back myself so I thought I was behind but seeing your mug makes me feel better\nListen mate you heard of iron sharpening iron right? Well I got a few things that could help with your cultivation along the journey so we are both ready to face the old god at the tourney\".\nMischeveously your friend Bosman says, \"You just have to pass my test first\"",
+                    "\n\nHey Look at you, you passed the test, let me give you your reward",
+                    "\n\nIt was a tough test... sorry bud maybe next time I can reward you"
+                ]
+            },
+            "Actions": [
+                "Continue"
+            ]
+        },
+        {
+            "Story": "You think you see Bosman in the distance and pick up the pace...",
+            "Uniques": {
+                "Cultivation": 50,
+                "Goal": 150,
+                "Reward": {
+                    "Max_HP": 15
+                },
+                "Continue": "Onwards to glory!",
+                "ID": "Exposition2",
+                "Additional_Story": [
+                    "\"Well, well well, if it isn't my good buddy!\"\n\"\"Didn't get eaten by a monster yet I see *haha* good\", Bosman's smile fades \"Ever since the dang gods started to turn to war games, there have been one too many monsters lurking about\neating the weak and hapless,\nI'm glad we are growing stronger together to stop them through this tournament\".\nMischeveously your friend Bosman says, \"If you would like me too help you again, you just have to pass my test first\"",
+                    "\n\nHey Look at you, you passed the test, let me give you your reward",
+                    "\n\nIt was a tough test... sorry bud maybe next time I can reward you"
+                ]
+            },
+            "Actions": [
+                "Continue"
+            ]
+        },
+        {
+            "Story": "Looking out from atop the hill you see a band of monsters in a clearing, seemingly resting. Then you see the familar messy head o your friend....",
+            "Uniques": {
+                "Cultivation": 50,
+                "Goal": 300,
+                "Reward": {
+                    "Max_HP": 15
+                },
+                "Continue": "Onwards to glory!",
+                "ID": "Exposition3",
+                "Additional_Story": [
+                    "\"Oh! You found me... and did you see the monsters up ahead?\"\n\"Take a closer look, that big monster over there is the general for the old god Innocentius' army\".\nRage fills your friends eyes, \"That was the monster that destroyed our village a few years ago, why don't we take revenge and cripple the old god's army?\"\n\"Here let me see if I can prepare you for the fight ahead, I will need to test you again\"",
+                    "\n\nHey Look at you, you passed the test, let me increase your internal energy so you can fight that behemoth",
+                    "\n\nIt was a tough test... sorry bud maybe next time I can reward you, your body couldn't handle it now"
+                ]
+            },
+            "Actions": [
+                "Continue"
+            ]
+        },
+        {
+            "Story": "Your friend Bosman is covered in scratches from the fight that ensued... you approach him steadily",
+            "Uniques": {
+                "Cultivation": 50,
+                "Goal": 450,
+                "Reward": {
+                    "Max_HP": 20
+                },
+                "Continue": "Onwards to glory!",
+                "ID": "Exposition4",
+                "Additional_Story": [
+                    "\"We decimated them and lived to tell the tale!!!\"\n\"Come my friend let me feel your internal qi to see if you grew through that experience\", I feel like I can go straight to the Tournament grounds and beat Innocentius,\nbut before I do that I want to see if you are ready to receive a parting gift to carry you the rest of the way",
+                    "\n\nHey Look at you, you passed the test, let me give you your reward",
+                    "\n\nIt was a tough test... sorry bud maybe next time I can reward you"
+                ]
+            },
+            "Actions": [
+                "Continue"
+            ]
+        },
+        {
+            "Story": "Finally you were able to finish your journey at the illustrious tournament ring, this is what you have been cultivating your skills for!\nYour excitement wanes as you see a figure off to the side like a discarded heap of refuse... your friend?!?",
+            "Uniques": {
+                "Cultivation": 50,
+                "Goal": 100,
+                "Reward": {
+                    "Max_HP": 150
+                },
+                "Continue": "Onwards to glory!",
+                "ID": "Exposition5",
+                "Additional_Story": [
+                    "Additional Story",
+                    "\n\nI was going to give you my final amounts of energy either way... carry on the fight with my spirit by your side",
+                    "\n\nIt was a tough test... sorry bud maybe next time I can reward you... in the next life...",
+                    "\n\nBosman dies in your arms giving you the last of his life energy increasing your vitality two fold.\nYour rage also increased two fold... its time to end this game..."
+                ]
+            },
+            "Actions": [
+                "Continue"
+            ]
+        }
+    ],
+    "Monster": [
+        {
+            "Story": "Monster 2: Snake",
+            "Uniques": {
+                "Cultivation": 80,
+                "Fight!": "You are fighting now!",
+                "Give_Up": "You gave up!",
+                "HP": 25,
+                "Elemental_Set": {
+                    "2": "Lightning",
+                    "5": "Earth"
+                },
+                "Name": "Snake",
+                "ID": "Monster 2",
+                "Additional_Story": "Additional Story"
+            },
+            "Actions": [
+                "Fight!",
+                "Give Up"
+            ]
+        },
+        {
+            "Story": "Monster 3: Lizard Man",
+            "Uniques": {
+                "Cultivation": 85,
+                "Fight!": "You are fighting now!",
+                "Give_Up": "You gave up!",
+                "HP": 90,
+                "Elemental_Set": {
+                    "1": "Fire",
+                    "4": "Water",
+                    "5": "Earth"
+                },
+                "Name": "Lizard Man",
+                "ID": "Monster 3",
+                "Additional_Story": "Additional Story"
+            },
+            "Actions": [
+                "Fight!",
+                "Give Up"
+            ]
+        },
+        {
+            "Story": "Monster 4: Fire Snake",
+            "Uniques": {
+                "Cultivation": 90,
+                "Fight!": "You are fighting now!",
+                "Give_Up": "You gave up!",
+                "HP": 120,
+                "Elemental_Set": {
+                    "1": "Fire",
+                    "2": "Lightning",
+                    "3": "Wind"
+                },
+                "Name": "Fire Snake",
+                "ID": "Monster 4",
+                "Additional_Story": "Additional Story"
+            },
+            "Actions": [
+                "Fight!",
+                "Give Up"
+            ]
+        },
+        {
+            "Story": "Monster 1: Basilik",
+            "Uniques": {
+                "Cultivation": 75,
+                "Fight!": "You are fighting now!",
+                "choicObjchoicObj": "You gave up!",
+                "HP": 65,
+                "Elemental_Set": {
+                    "4": "Water",
+                    "5": "Earth"
+                },
+                "Name": "Basilik",
+                "ID": "Monster 1",
+                "Additional_Story": "Additional Story"
+            },
+            "Actions": [
+                "Fight!",
+                "Give Up"
+            ]
+        },
+        {
+            "Story": "Monster 5: Danger Noodle",
+            "Uniques": {
+                "Cultivation": 100,
+                "Fight!": "You are fighting now!",
+                "Give_Up": "You gave up!",
+                "HP": 100,
+                "Elemental_Set": {
+                    "1": "Fire",
+                    "3": "Wind",
+                    "5": "Earth"
+                },
+                "Name": "Danger Noodle",
+                "ID": "Monster 5",
+                "Additional_Story": "Additional Story"
+            },
+            "Actions": [
+                "Fight!",
+                "Give Up"
+            ]
+        }
+    ],
+    "miniBoss": {
+        "Story": "The Innocentius' monster general has appeared!\nCeberus raises its demon dog heads to level its eyes with yours.\nOne head burps fire, another chews on the ground and spits it towards you,\nand yet another growls and blows air in your directions.\nAre you ready to face this beast?",
+        "Uniques": {
+            "Cultivation": 100,
+            "Fight!": "You are fighting now!",
+            "Give_Up": "Apparently you were not ready, and Innocentius' monster general put you out of your misery...",
+            "HP": 200,
+            "Elemental_Set": {
+                "1": "Fire",
+                "3": "Wind",
+                "5": "Earth"
+            },
+            "ID": "miniBoss",
+            "Name": "Ceberus",
+            "Additional_Story": "Additional Story"
+        },
+        "Actions": [
+            "Fight!",
+            "Give Up"
+        ]
+    },
+    "Boss": {
+        "Story": "Innocentius - the god of everlasting fire and torment has arrived at the ring.\nHis presence was felt before he even stepped foot into the ring, but now you are past sweltering.\nYour very pores feel like they are immolating at the sight of the god of supreme fire.",
+        "Uniques": {
+            "Cultivation": 150,
+            "Fight!": "You are fighting now!",
+            "Give_Up": "The blazing mouth of the fire god opens and crackles at you\n\"To give up now when the journey was about to end... Why start the journey at all then?\nI will end your suffering hear and now\"\nInnocentius has done away with your low-born form.",
+            "ID": "Boss",
+            "Name": "Innocentius",
+            "HP": 450,
+            "Elemental_Set": {
+                "1": "Fire",
+                "2": "Lightning",
+                "3": "Wind",
+                "5": "Earth"
+            },
+            "Additional_Story": "Additional Story"
+        },
+        "Actions": [
+            "Fight!"
+        ]
+    },
+    "Scenario-1": {
+        "Description": " Scenario: Help Someone with one task",
+        "Scenarios": [
+            {
+                "Story": "You see a little boy pancing around a tree looking towards its branches.\nHe catches your eyes and squeeks out, \"Could you help me get my cat out of the tree mister\"\nAn audible meow echoes from the leaves within.",
+                "Uniques": {
+                    "Cultivation": 50,
+                    "Help!": "You helped the cat out of the tree",
+                    "Continue On": "Nah lefts leave that cat in the tree",
+                    "ID": "Scenario-1A",
+                    "Additional_Story": "Additional Story",
+                    "Reward": 15
+                },
+                "Actions": [
+                    "Help!",
+                    "Continue On"
+                ]
+            },
+            {
+                "Story": "You almost pass by an old woman who taps you to get your attention, \" Young man could you help me get my bird out of the tree?\"",
+                "Uniques": {
+                    "Cultivation": 50,
+                    "Help!": "You helped the bird out of the tree. And thank goodness, she was a penguin!\nThey can't fly so you are scratching your head on how it got up there...\n",
+                    "Continue On": "What... its a bird! It can fly out of the tree by itself",
+                    "ID": "Scenario-1C",
+                    "Additional_Story": "Additional Story",
+                    "Reward": 15
+                },
+                "Actions": [
+                    "Help!",
+                    "Continue On"
+                ]
+            },
+            {
+                "Story": "A young woman is sitting on the ground looking flummoxed as she stares up into a tree. \"Could you help me get my dog out of the tree, I am not really sure how it got up there...\"",
+                "Uniques": {
+                    "Cultivation": 50,
+                    "Help!": "You helped the dog out of the tree",
+                    "Continue On": "Nah lefts leave that dog in the tree",
+                    "ID": "Scenario-1B",
+                    "Additional_Story": "Additional Story",
+                    "Reward": 15
+                },
+                "Actions": [
+                    "Help!",
+                    "Continue On"
+                ]
+            },
+            {
+                "Story": "You spot a pale little girl looking down in the well calling after something.\nTeary eyed she looks around then spots you shouting out \"Please, help me get my puppy out of the well!\"",
+                "Uniques": {
+                    "Cultivation": 50,
+                    "Help!": "You helped the puppy out of the well and get the little girl to stop crying",
+                    "Continue On": "Nah lefts leave that puppy in the well... it will have plenty of water",
+                    "ID": "Scenario-1D",
+                    "Additional_Story": "Additional Story",
+                    "Reward": 15
+                },
+                "Actions": [
+                    "Help!",
+                    "Continue On"
+                ]
+            }
+        ]
+    },
+    "Scenario-2": {
+        "Description": "Explore/Adventure",
+        "Scenarios": [
+            {
+                "Story": "You see a dark cave... who knows what is in there",
+                "Uniques": {
+                    "Cultivation": 50,
+                    "Explore!": "You are in awe at the visions within the abyss! You feel your chakras swell and become unblocked....",
+                    "Continue On": "Why would you go into a cave? What if there is an Inferno Bear hibernating in there?!? Hard pass.",
+                    "ID": "Scenario-2D",
+                    "Additional_Story": "Additional Story"
+                },
+                "Actions": [
+                    "Explore!",
+                    "Continue On"
+                ]
+            },
+            {
+                "Story": "This looks like.... yours mom's house?!\nBut you just left your house like way back behind you\nShould you explore what's inside?",
+                "Uniques": {
+                    "Cultivation": 50,
+                    "Explore!": "You do not know how your mom moved her whole house to another location.\nShe didn't even call you to help\nBut she seemed fine she gave you fresh baked cookies!\nYum!",
+                    "Continue On": "My mom is a little overbearing, better not go in",
+                    "ID": "Scenario-2C",
+                    "Additional_Story": "Additional Story"
+                },
+                "Actions": [
+                    "Explore!",
+                    "Continue On"
+                ]
+            },
+            {
+                "Story": "This looks like an abandoned dojo of the Lava Moths! Would you care to explore it?",
+                "Uniques": {
+                    "Cultivation": 50,
+                    "Explore!": "You explored the abandoned dojo and didn't really find anything cool, except for a few scrolls that improved your martial art",
+                    "Continue On": "Nah that dojo looks creepy...",
+                    "ID": "Scenario-2A",
+                    "Additional_Story": "Additional Story"
+                },
+                "Actions": [
+                    "Explore!",
+                    "Continue On"
+                ]
+            },
+            {
+                "Story": "On first inspection this seems like a rundown lab...\nbut actually it is the lab of Professor Xuni the leading research of the Qi refining device\nwhich has been known to increase ones Qi resorvoirs",
+                "Uniques": {
+                    "Cultivation": 50,
+                    "Explore!": "The Qi refining device was bigger than you thought but hey you feel your cultivation getting stronger!",
+                    "Continue On": "That lab looks dangerous... I better not go in there",
+                    "ID": "Scenario-2B",
+                    "Additional_Story": "Additional Story"
+                },
+                "Actions": [
+                    "Explore!",
+                    "Continue On"
+                ]
+            }
+        ]
+    },
+    "Scenario-3": {
+        "Description": "Get an item/skill",
+        "Scenarios": [
+            {
+                "Story": "Ooo look, there's a black friday sale going on at Well-Mart.\nAnd they are selling the Rejuvenation Gloves!",
+                "Uniques": {
+                    "Cultivation": 50,
+                    "Go and buy it!": "You got the Rejuvenation Gloves fresh off the guy you beat up to get them. Ah you feel your Chakra flow increase",
+                    "Continue On": "I don't want to get trampled",
+                    "ID": "Scenario-3A",
+                    "Additional_Story": "Additional Story"
+                },
+                "Actions": [
+                    "Go and buy it!",
+                    "Continue On"
+                ]
+            },
+            {
+                "Story": "\"Would you like a free item?\", a salesman of some type stops you waving about something he calls a \"sample\"",
+                "Uniques": {
+                    "Cultivation": 50,
+                    "Sure!": "Cool you got a cookie for free and your got a brochure to join this MLM that sells them, might be a good idea if its this delicious",
+                    "Continue On": "Nothing in life is free",
+                    "ID": "Scenario-3D",
+                    "Additional_Story": "Additional Story"
+                },
+                "Actions": [
+                    "Sure!",
+                    "Continue On"
+                ]
+            },
+            {
+                "Story": "As you are walking down the path you happen to cross a obelisk with glowing blue words:\nDefend your honor in back to back brawls and be rewarded for your valor.\nYou shall gain the ability to command another Element that you do not possess!",
+                "Uniques": {
+                    "Cultivation": 50,
+                    "Take the Challenge!": "Wait... this isn't a challenge totem... its just a religious monument of some kind...\nYou swear you feel a power swell inside you though",
+                    "Continue On": "Nah it's better to leave these types of things alone",
+                    "ID": "Scenario-3C",
+                    "Additional_Story": "Additional Story"
+                },
+                "Actions": [
+                    "Take the Challenge!",
+                    "Continue On"
+                ]
+            },
+            {
+                "Story": "'Hello', a timid sort of man walks up to you.\nI have a wee problem, I got roughed up by some ne'erdowells over yonder\nand they took my bag full of items for the elemental tournament today!\nCould you help me out? In exchange I could give you one of the items that was meant for a participant.",
+                "Uniques": {
+                    "Cultivation": 50,
+                    "Sure help out": "Why did I help out? I got beat up...",
+                    "Continue On": "I don't want to get beat up",
+                    "ID": "Scenario-3B",
+                    "Additional_Story": "Additional Story"
+                },
+                "Actions": [
+                    "Sure help out",
+                    "Continue On"
+                ]
+            }
+        ]
+    },
+    "expositionPosition": 3,
+    "monsterPosition": 3,
+    "scenarioOnePosition": 2,
+    "scenarioTwoPosition": 1,
+    "scenarioThreePosition": 1,
+    "storyPosition": 13,
+    "written_path": "I-S1-Ex-M-Ex-S1-S3-S2-M-Ex-Mi-M-Ex-S2-S3-M-S3-S2-S3-Ex-B"
+}

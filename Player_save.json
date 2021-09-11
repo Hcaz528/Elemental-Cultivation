@@ -1,0 +1,14 @@
+{
+    "Name": "Bobby",
+    "Inventory": {},
+    "Power": 100,
+    "Max_Power": 100,
+    "HP": 122,
+    "Max_HP": 145,
+    "Elemental_Set": {
+        "1": "Fire",
+        "5": "Earth",
+        "2": "Lightning"
+    },
+    "Cultivation": 90
+}
