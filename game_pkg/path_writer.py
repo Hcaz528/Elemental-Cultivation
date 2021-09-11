@@ -317,7 +317,7 @@ def action_fight(choice, targetStory, choicObj=None, expObj=None, player_Obj=Non
                 ExitGame(True, player_Obj.Cultivation, False)
             # NOTE Check to see if the player died
             player_Obj.Current_HP = PlayerA["HP"]
-            player_Obj.Cultivation = expObj["Uniques"]["Cultivation"]
+            player_Obj.Cultivation += expObj["Uniques"]["Cultivation"]
             print(
                 f"\nYou won the battle albeit with a few scraps (current HP {player_Obj.Current_HP})")
             # NOTE If dead ExitGame(True, player_Obj.Cultivation, False)
@@ -346,7 +346,7 @@ def action_fight(choice, targetStory, choicObj=None, expObj=None, player_Obj=Non
             print(
                 f"\nYou won the battle albeit with a few scraps (current HP {player_Obj.Current_HP})")
             player_Obj.Current_HP = PlayerA["HP"]
-            player_Obj.Cultivation = pathSTORIES["miniBoss"]["Uniques"]["Cultivation"]
+            player_Obj.Cultivation += pathSTORIES["miniBoss"]["Uniques"]["Cultivation"]
             # NOTE If dead ExitGame(True, player_Obj.Cultivation, False)
         elif(choice == 2):
             print(pathSTORIES["miniBoss"]["Uniques"]["Give_Up"])
@@ -370,7 +370,7 @@ def action_fight(choice, targetStory, choicObj=None, expObj=None, player_Obj=Non
             print(
                 f"\nYou won the battle albeit with a few scraps (current HP {player_Obj.Current_HP})")
             player_Obj.Current_HP = PlayerA["HP"]
-            player_Obj.Cultivation = pathSTORIES["Boss"]["Uniques"]["Cultivation"]
+            player_Obj.Cultivation += pathSTORIES["Boss"]["Uniques"]["Cultivation"]
             # NOTE If dead ExitGame(True, player_Obj.Cultivation, False)
             EndGame(player_Obj.Cultivation)
         elif(choice == 2):
